@@ -1,15 +1,6 @@
----
-title: 'Google DSC 2021/22 Application'
-disqus: ryanyen2
----
 <img src="https://imgur.com/Jspr9FW.png"/>
-Google DSC 2021/22 Application
-===
-![chat](https://img.shields.io/discord/:serverId.svg)
 
-## Table of Contents
-
-[TOC]
+# Google DSC 2021/22 Application
 
 ## Beginners Guide
 
@@ -17,7 +8,7 @@ Google DSC 2021/22 Application
 2. What is [Google DSC Lead? 🤩](https://developers.google.com/community/dsc/leads)
 3. How about [CityU Google DSC? ❤](https://cityu-dsc.github.io/dsc-web/#/)
 
-What have we done for 2022/21?
+## What have we done for 2022/21?
 ---
 
 
@@ -32,7 +23,7 @@ What have we done for 2022/21?
 
 > Read more about CityU GDSC Projects here: https://github.com/CityU-DSC
 
-Application for 2021 new Leads!
+# Application for 2021 new Leads!
 ---
 
 > Are you passionate about learning Google technologies? Want to make an impact and create a passionate learning experience with your fellow students? Then you should be a leader in the Google Student Developer Community Program!
@@ -45,7 +36,7 @@ Application for 2021 new Leads!
 6. 💬Join the group chat room to discuss http://upup.to/2021dscfbw1g
 
 
-## Appendix and FAQ
+### Appendix and FAQ
 
 :::info
 Please Cotact +852 9707 1401 on Whatsapp for more information
